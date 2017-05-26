@@ -1,7 +1,7 @@
 {
-  "name": "angular-expressions",
+  "name": "angular-parser",
   "version": "0.3.0",
-  "description": "Angular expressions as standalone module",
+  "description": "copy of angular-expressions",
   "main": "./lib/main.js",
   "scripts": {
     "test": "mocha test/main.test.js -R spec",
